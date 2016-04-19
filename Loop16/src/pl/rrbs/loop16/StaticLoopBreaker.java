@@ -6,7 +6,7 @@ import pl.rrbs.loop16.exception.LoopBreak;
 import pl.rrbs.loop16.exception.SilentLoopBreak;
 
 /**
- * Class to be use the breaker functionalities as single lines of codes, without
+ * Class to use the breaker functionalities as single lines of code, without
  * the need to manually create any object.
  *
  */
